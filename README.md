@@ -96,6 +96,6 @@ A file named `wikipedia_results.xlsx` will be created inside the `wikipedia` dir
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 These projects are developed **for educational purposes only** to demonstrate web scraping techniques. Please respect websites’ terms of service and robots.txt rules when scraping data.
